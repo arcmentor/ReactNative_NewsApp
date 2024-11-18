@@ -26,7 +26,7 @@
     "currency-formatter": "^1.5.1",
     "expo": "^32.0.0",
     "expo-localization": "^2.0.0",
-    "firebase": "5.8.0",
+    "firebase": "10.9.0",
     "geofirestore": "^3.0.2",
     "i18n-js": "^3.2.1",
     "moment": "^2.22.2",
